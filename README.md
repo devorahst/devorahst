@@ -1,7 +1,7 @@
 ## Hi, I’m Devorah Stucki! 👋
 - :smile: My pronouns are she/her
 - 👀 I'm passionate about development that improves healthcare outcomes.
-- :hospital: I’m currently working in bioinformatic data analysis at the University of Utah.
+- :hospital: I’m currently working as a Bioinformatic Data Analysist at the University of Utah.
 - 📫 Looking to collaborate? You can reach me at:
   - :bulb: [Linkedin](www.linkedin.com/in/devorah-stucki)
   - :envelope: Email: devorah.stucki@gmail.com
