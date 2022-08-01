@@ -4,7 +4,7 @@
 - :hospital: I’m currently working as a Bioinformatic Data Analysist at the University of Utah.
 - 📫 Looking to collaborate? You can reach me at:
   - :bulb: [Linkedin](www.linkedin.com/in/devorah-stucki)
-  - :envelope: Email: devorah.stucki@gmail.com
+  - :envelope: [Email](mailto:devorah.stucki@gmail.com)
 
 <div align="center">
   
