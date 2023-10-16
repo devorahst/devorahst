@@ -1,5 +1,5 @@
 ## Hi, I’m Devorah Stucki! 👋
-- 👀 I'm passionate about development that improves healthcare outcomes.
+- 👀 I'm passionate about leveraging data to improve healthcare outcomes.
 - :hospital: I’m currently working as a Bioinformatic Data Analysist at the University of Utah.
 - 📫 Looking to collaborate? You can reach me at:
   - :bulb: [Linkedin](www.linkedin.com/in/devorah-stucki)
